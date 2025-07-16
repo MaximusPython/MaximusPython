@@ -4,6 +4,6 @@
 
 - 🎓 I’m currently learning `Nest`
 
-- 🙌 I'm familiar with: `TypeScript`, `Node.js`, `Docker`, `Postgres`, `Mongo`, `Linux`, `React`, `Redux`, `ClickHouse`, `Python`, `Swagger`
+- 🙌 I'm familiar with: `TypeScript`, `Node.js`, `Docker`, `Postgres`, `Mongo`, `Linux`, `React`, `Redux`, `ClickHouse`, `Python`, `Swagger`, `Prisma`, `GraphQl`
 
 ![codewars](https://www.codewars.com/users/MaximusPython/badges/small)
