@@ -6,7 +6,7 @@
 
 - 🎓 I’m currently learning `Microservices`
 
-- 🙌 I'm familiar with: `TypeScript`, `Node.js`, `Docker`, `Nest.js`, `Postgres`, `Mongo`, `Linux`, `React`, `Redux`, `ClickHouse`, `Python`, `Swagger`, `Prisma`, `GraphQl`
+- 🙌 I'm familiar with: `TypeScript`, `Node.js`, `Docker`, `Nest.js`, `Postgres`, `Mongo`, `Linux`, `React`, `Redux`, `ClickHouse`, `Python`, `Swagger`, `Prisma`, `GraphQL`
 
 - ⚡ I love 📚, 🌄, 🌅, and 📈
 
