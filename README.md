@@ -8,4 +8,6 @@
 
 - 🙌 I'm familiar with: `TypeScript`, `Node.js`, `Docker`, `Nest.js`, `Postgres`, `Mongo`, `Linux`, `React`, `Redux`, `ClickHouse`, `Python`, `Swagger`, `Prisma`, `GraphQl`
 
+- ⚡ I love 📚, 🌄, 🌅, and 📈
+
 ![codewars](https://www.codewars.com/users/MaximusPython/badges/small)
