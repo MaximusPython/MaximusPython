@@ -1,6 +1,6 @@
 ### Hey, I'm Max 👋
 
-#### I'm a Full-Stack TS Developer.
+#### I'm a Backend TS Developer.
 
 - ⚙️ I use daily: `TypeScript`, `Nest.js`
 
